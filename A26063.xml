@@ -1,0 +1,636 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse against blasphemy being a conference with M.S. concerning 1. the rudeness of atheistical discourse, 2. the certainty and eternity of hell-torments, 3. the truth and authority of the Holy Scriptures : published pursuant to Their Majesties injunctions to suppress atheism and irreligion / by William Assheton.</title>
+            <author>Assheton, William, 1641-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26063</idno>
+            <idno type="STC">Wing A4030</idno>
+            <idno type="STC">ESTC R27660</idno>
+            <idno type="EEBO-CITATION">10066242</idno>
+            <idno type="OCLC">ocm 10066242</idno>
+            <idno type="VID">44497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1375:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse against blasphemy being a conference with M.S. concerning 1. the rudeness of atheistical discourse, 2. the certainty and eternity of hell-torments, 3. the truth and authority of the Holy Scriptures : published pursuant to Their Majesties injunctions to suppress atheism and irreligion / by William Assheton.</title>
+                  <author>Assheton, William, 1641-1711.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third impression.</edition>
+               </editionStmt>
+               <extent>[2], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B. and are to be sold by Richard Simpson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>M. S., 17th cent.</term>
+               <term>Church of England --  Apologetic works.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44497:1" rendition="simple:additions"/>
+            <p>A DISCOURSE Againſt <hi>Blaſphemy.</hi> Being a Conference with M. S. CONCERNING</p>
+            <list>
+               <item>1. The <hi>Rudeneſs</hi> of <hi>Atheiſtical Diſcourſe.</hi>
+               </item>
+               <item>2. The <hi>Certainty</hi> and <hi>Eternity</hi> of <hi>Hell-Torments.</hi>
+               </item>
+               <item>3. The <hi>Truth</hi> and <hi>Authority</hi> of the <hi>Holy Scriptures.</hi>
+               </item>
+            </list>
+            <p>Publiſhed Purſuant to their Majeſties Injunctions) To Suppreſs <hi>Atheiſm</hi> and <hi>Irreligion.</hi>
+            </p>
+            <p>The Third Impreſſion.</p>
+            <p>By <hi>William Aſſheton,</hi> D. D. Chaplain to His <hi>Grace</hi> the Duke of <hi>Ormond.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. B.</hi> and are to be Sold by <hi>Richard Simpſon,</hi> at the Three Trouts in St. <hi>Paul</hi>'s Church-Yard. 1694.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:44497:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>
+                  <date>May 2. 1690.</date>
+               </dateline>
+               <signed>Z. <hi>Iſham,</hi> R. P. D. Hen. <hi>Epiſc.</hi> Lon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>a Sacris.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44497:2"/>
+            <head>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Illuſtrious His Grace <hi>James</hi> Duke of <hi>Ormond,</hi> &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe Your Grace,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>O permit Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Obliged Chaplain to publiſh this following Treatiſe under <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r</hi> Grace's <hi>Name. The Deſign of which, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll humility, is to vindicate the Great <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>jeſty of Heaven, from the Malitious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lections of a Blaſphemous Tongue.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Perſon concerned in theſe Papers <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not confeſſed, upon Demand,</hi> That <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is a God; <hi>I ſhould then have judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the reſt of his Diſcourſe, that he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a down-right</hi> Atheiſt. <hi>And ought <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave treated him as ſuch, and not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he milder Name of</hi> Deiſt.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut whether</hi> Deiſt <hi>or</hi> Atheiſt <hi>his Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ons were ſo extravagant, That I did think to have return'd him no An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> It being neither prudent nor ſafe</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Pearls before Swine. <hi>And per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſuch Bravoes as theſe are beſt An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>'d with Silence: Who deſerve a ſharp<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfutation then can be given them <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Pen. But when I remember'd <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> advice of</hi> Solomon; Anſwer a Fool <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ording to his folly, leſt he be wiſe is own Conceit. <hi>And did likewiſe <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve, how this Hector of</hi> Satan <hi>re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed his Rambles in the Neighbour<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of my Pariſh. And with what Scorn <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reated my Profeſſion, with a</hi> Come <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſon conv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce me if you can. <hi>I then
+<pb facs="tcp:44497:3"/> thought it my Duty,</hi> to magnifie mi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Office, <hi>by pleading the Cauſe of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Great Maſter, againſt the taunting R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>proaches of this</hi> inſulting Sennacheri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>If what I have here writ may be i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any meaſure uſeful to the Cauſe of R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ligion, I do chearfully Publiſh it und<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Your</hi> Grace'<hi>s Patronage. And when have firſt Declar'd; That I perfect hate Flattery; And am either too Pro<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or too Honeſt to be guilty of ſuch mea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>neſs; I will then take the Freedom tell the World, how highly I Honour Yo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Grace'<hi>s Worth and Vertues. And wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Satisfaction it is to all true Lovers <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Houſe of</hi> Ormond <hi>to obſerve the Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ding Hopes of Your</hi> Grace'<hi>s Greatneſs.</hi>
+            </p>
+            <p>
+               <hi>'Tis an Argument of a truly great a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> generous Mind, to bear Adverſity wit Patience. And tho 'tis much hope through Gods Bleſſing upon His</hi> Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſties <hi>Arms, Your</hi> Grace's <hi>Affairs will i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſhort time, be in a better Poſture; y<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> poſſibly few Perſons, of Your</hi> Grace'<hi>s <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gure, would have born ſome Paſſag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with ſuch Decency as You have done.</hi>
+            </p>
+            <p>
+               <hi>But when I remember the genero<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Examples of your Illuſtrious Grand-F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ther and Heroie Father, 'tis but w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was expected from Your</hi> Grace. <hi>Greatneſs ſeems to be entailed u<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Your Family. And that Your</hi> Gr<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>may live to equal the Worth Greatneſs of Your Anceſtors, is Prayer of,</hi>
+            </p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Grace's Chaplain in all D<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ful Obſervance</hi> W. Aſſheto<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:44497:3"/>
+            <head>TO M. S.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have juſt cauſe even as a <hi>Chriſtian,</hi> but much more as a <hi>Church-man,</hi> to expreſs my Reſentments againſt your late Diſcourſe. Thoſe Atheiſtical Ha<g ref="char:EOLhyphen"/>rangues againſt <hi>the Majeſty of God</hi> and <hi>his Providence;</hi> the <hi>Immorta<g ref="char:EOLhyphen"/>lity of the Soul, Rewards and Pu<g ref="char:EOLhyphen"/>niſhments in another World;</hi> parti<g ref="char:EOLhyphen"/>cularly, againſt the <hi>Certainty and Eternity of Hell Torments;</hi> were doubtleſs to be rejected with the higheſt Indignation. And I am ſo far from condemning my ſelf, as guilty of an unneceſſary Zeal in ſo doing; that I rather judge it my Duty, to confirm and enlarge the <hi>Admonitions</hi> I then gave you.</p>
+            <p>I will not exaſperate by a mi<g ref="char:EOLhyphen"/>nute repetition of your extra<g ref="char:EOLhyphen"/>vagant
+<pb n="2" facs="tcp:44497:4"/> Expreſſions (for indee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are not fit to be repeated but ſhall in Charity to your ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and others of your Complexio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſire you briefly to conſide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe <hi>Two</hi> Things.</p>
+            <p>I. The <hi>Rudeneſs.</hi> II. T<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Danger</hi> of ſuch Diſcourſes.</p>
+            <p>From the former of theſe To<g ref="char:EOLhyphen"/>pics, let me adviſe you to polliſh your Converſation; and to be have your ſelf, at leaſt as a <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> if not as a <hi>Chriſtian.</hi> For pray, Sir, conſider; How un gentile it is, to diſturb innocent Mirth, and ingenious Society with ſuch exaſperating Digreſſions.</p>
+            <p>'Tis, you know, an unfortu<g ref="char:EOLunhyphen"/>nate miſtake to affront any Perſon in the preſence of his Friend. And upon ſuch intimation given (ever out of reſpect to the Company the moſt inveterate malice is uſu<g ref="char:EOLunhyphen"/>ally ſilenc'd.</p>
+            <p>You will likewiſe acknowledg<g ref="char:punc">▪</g> he muſt needs be a Man of a very cold Conſtitution, who can ſittame and unconcerned, whilſt his <hi>Prince,</hi>
+               <pb n="3" facs="tcp:44497:4"/> his <hi>Parent,</hi> his <hi>Patron</hi> and <hi>Benefa<g ref="char:EOLhyphen"/>ctor</hi> ſhall be reviled and aſperſed.</p>
+            <p>If the <hi>King</hi> ſhall be Libelled and Reproached, his <hi>Perſon</hi> Ri<g ref="char:EOLhyphen"/>diculed, his <hi>Title</hi> diſputed, his <hi>Government</hi> traduced as Tyranni<g ref="char:EOLhyphen"/>cal and Unjuſt: An honeſt, loyal Subject will not barely reprove ſuch a railing <hi>Shimei,</hi> with a <hi>Curſe not the Lords Anointed,</hi> but accor<g ref="char:EOLhyphen"/>ding to his Allegiance, he will bring the Rebel to a ſharper Ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>A Dutiful <hi>Child</hi> will, beyond all Patience, be provoked; to hear his <hi>Father</hi> treated as a Villain and a Raſcal. And a faithful <hi>Ser<g ref="char:EOLhyphen"/>vant,</hi> on ſuch occaſion, will equal<g ref="char:EOLhyphen"/>ly be moved for the Credit of his <hi>Maſter.</hi>
+            </p>
+            <p>Now is God only Friendleſs? Is no Man think you concerned, for the Honour and Glory of ſo great a Majeſty? When Blaſphe<g ref="char:EOLhyphen"/>mous Mouths ſhall <hi>revile his Na<g ref="char:EOLhyphen"/>ture; Burleſque his Laws; Deſpiſe his Promiſes; Contemn his Threat<g ref="char:EOLhyphen"/>nings; Laugh at his Terrors<g ref="char:punc">▪</g>
+               </hi> Do
+<pb n="4" facs="tcp:44497:5"/> you think ſuch Enlargement as this, can be welcome or accepted in a Chriſtian Society? If you fancy that it will, let me then convince you of your miſtake, whilſt I thus briefly inform you, what apprehenſions we <hi>Chriſtians</hi> have of Almighty God.</p>
+            <p>We Believe; That there is One Supream <hi>Being,</hi> not only in<g ref="char:EOLhyphen"/>finitely <hi>Great</hi> and Powerful, but alſo infinitely <hi>Good,</hi> Benign and Gracious. That as he made all Things by his <hi>Power,</hi> ſo he go<g ref="char:EOLhyphen"/>verns them by his <hi>Providence.</hi> That he hath a more peculiar re<g ref="char:EOLhyphen"/>gard to his Creature <hi>Man,</hi> whom he hath endowed with Perfecti<g ref="char:EOLhyphen"/>ons beyond other <hi>Beings.</hi> That he hath not only provided all ſui<g ref="char:EOLhyphen"/>table Accommodations for <hi>this</hi> Life (in which we continually de<g ref="char:EOLhyphen"/>pend on his Care and Bounty) but alſo hath made us capable of a <hi>better.</hi> That when we <hi>Die,</hi> we do not periſh as the <hi>Brutes,</hi> but have <hi>Souls</hi> immortal, which ſhall never ceaſe to be. That he hath
+<pb n="5" facs="tcp:44497:5"/> provided a Happineſs for theſe Souls (yea and our Bodies alſo, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich ſhall riſe again and be uni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to them) infinitely beyond our preſent apprehenſions. That unſpeakable Joys are prepared for thoſe that <hi>love God, i. e.</hi> who are obedient to his Commands. As for thoſe who ſhall finally re<g ref="char:EOLhyphen"/>ject his Precepts, and ſtupidly fol<g ref="char:EOLhyphen"/>low their own brutiſh Inclinations, there is a ſad Eternity expects them in the other World.</p>
+            <p>But our comfort is, God made us to be happy; and if We are not ſo, it is certainly our own faults. For he ſhews us our Danger, and inſtructs us how to avoid it. He expoſtulates with us, <hi>why we will Dye and Periſh?</hi> And we may be confident, ſince God is Truth it ſelf, he is very ſincere in thoſe Expoſtulations. And as the high<g ref="char:EOLhyphen"/>eſt Evidence of all this, He ſent his Son into the World, not only to inſtruct us, and to be an Exam<g ref="char:EOLhyphen"/>ple of holy Life, but alſo to <hi>Dye</hi> for us, and to reconcile us to him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <pb n="6" facs="tcp:44497:6"/>
+            <p>Now, <hi>He that ſpared not his own Son, but delivered him up for us all, how ſhall he not with him alſo, free<g ref="char:EOLhyphen"/>ly give us all Things?</hi>
+            </p>
+            <p>In Sum, God is the moſt <hi>Indul<g ref="char:EOLhyphen"/>gent Father,</hi> the moſt bountiful <hi>Be<g ref="char:EOLhyphen"/>nefactor,</hi> and the ſureſt <hi>Friend,</hi> He hath promiſed (and he is able to do it) to defend us in all <hi>Dan<g ref="char:EOLhyphen"/>gers;</hi> to relieve us in all our <hi>Wants;</hi> to direct us in all our <hi>Doubts.</hi> Finally, <hi>He will guide us by his Counſel here,</hi> And, if we fol<g ref="char:EOLhyphen"/>low his Conduct, <hi>will at laſt bring us to his Glory.</hi>
+            </p>
+            <p>Such Apprehenſions as theſe all good Chriſtians have of God. From whence, pray, do you judge, how unpleaſant it muſt be to Per<g ref="char:EOLhyphen"/>ſons thus perſwaded, to hear ſuch an excellent Being <hi>Deſpiſed;</hi> So great a Majeſty <hi>Prophaned;</hi> and ſuch infinite Goodneſs <hi>Abuſed.</hi>
+            </p>
+            <p>And therefore ſince Men are impatient to hear that <hi>contemned,</hi> which they value and admire; Or to be told that is <hi>falſe,</hi> which they firmly believe to be true: Do not
+<pb n="7" facs="tcp:44497:6"/> turn Converſation into Brawls and Quarrels. At leaſt be ſo mo<g ref="char:EOLhyphen"/>deſt as not to affront the common Senſe of Mankind. But if you will not Worſhip God your ſelf, yet at leaſt be ſo civil as not to <hi>Laugh</hi> at thoſe that ſhall.</p>
+            <p>And that I may convince you, what little Cauſe there is to be ſo pleaſant on ſuch Occaſions; I muſt deſire you further to conſider, Not only the <hi>Rudeneſs,</hi> but alſo,</p>
+            <p>II. The <hi>Danger</hi> of ſuch Diſcourſes.</p>
+            <p>And here I may rationally ſup<g ref="char:EOLhyphen"/>poſe, you have ſo much Love for your ſelf, that you dread the Thoughts of being Eternally mi<g ref="char:EOLhyphen"/>ſerable. And I appeal to your own Experience, if the ſerious Apprehenſion even of the Poſſi<g ref="char:EOLhyphen"/>bility of ſuch Torments, like <hi>Belſhazzar</hi>'s Hand upon the Wall, hath not <hi>looſned your Joynts;</hi> per<g ref="char:EOLhyphen"/>plext your Thoughts, and dampt your Pleaſures?</p>
+            <p>And therefore, ſince a miſtake in this matter is like to prove ſo fatal, you ought to be well aſſured
+<pb n="8" facs="tcp:44497:7"/> what you do, and upon what Grounds you do proceed.</p>
+            <p>For it is not ſufficient Security in this Caſe to affirm [<hi>Perhaps there is no Life after this;</hi> And, <hi>'Tis probable there is no Account to be given in another World. And you are not able to underſtand, how there ſhould be ſuch a Hell, ſuch a Place of Torments,</hi> &amp;c.] I ſay, this is not ſufficient. But if you will pro<g ref="char:EOLhyphen"/>ceed with Reaſon, you muſt then further Demonſtrate; That it is plainly impoſſible, and a flat Con<g ref="char:EOLhyphen"/>tradiction that ſuch Things ſhould be. Unleſs therefore you can prove this Propoſition; <hi>It is impoſſible there ſhould be any future Account; Any Torments in another World,</hi> you do not act upon Prudential Grounds, nor ſhew your ſelf Ma<g ref="char:EOLhyphen"/>ſter of ſuch exalted Reaſon, as you commonly pretend to.</p>
+            <p>'Tis a known Rule, which all Wiſe Men will obſerve, <hi>Provide for the Worſt.</hi> And therefore tho it ſhould be granted to be highly <hi>improbable,</hi> Or (as you are pleaſed
+<pb n="9" facs="tcp:44497:7"/> to Phraſe it) <hi>A very unlikely matter,</hi> that there ſhould be a <hi>Hell,</hi> or a State of ſuch diſmal Torments, yet unleſs you can further prove, That it is utterly <hi>Impoſſible,</hi> you are obliged in <hi>Prudence</hi> to provide for the worſt. Even to amend your Life, and to reform thoſe Practices, which, if there be a <hi>Hell,</hi> will moſt certainly bring you thither.</p>
+            <p>I muſt confeſs you have a very difficult Task, whilſt you attempt to prove a <hi>Negative.</hi> But if you will be trying of your skill, I'le ſhew you the Method in which you muſt proceed.</p>
+            <p>Whoever ſhall undertake ſo extravagant a Deſign as to prove there is no <hi>Hell,</hi> He muſt <hi>Firſt</hi> conſider thoſe Grounds and Rea<g ref="char:EOLhyphen"/>ſons, upon which all good Chri<g ref="char:EOLhyphen"/>ſtians do believe it, and he muſt then ſhew thoſe Grounds to be <hi>Impoſſible,</hi> and to imply a Con<g ref="char:EOLhyphen"/>tradiction; or elſe he trifles and deceives his own Soul.</p>
+            <p>Now if any one ſhould ask me,
+<pb n="10" facs="tcp:44497:8"/> Why I Believe a Hell? [<hi>Did I ever ſee any of that Infernal Regi<g ref="char:EOLhyphen"/>on? Did I ever converſe with thoſe Damned Spirits? Did they ever tell me there is ſuch a diſmal Place?</hi>]</p>
+            <p>I Anſwer, <hi>No.</hi> But I therefore believe it, <hi>Becauſe God, who is in<g ref="char:EOLhyphen"/>fallibly True, hath plainly Declared it.</hi> If it further ſhall be Demand<g ref="char:EOLhyphen"/>ed, [<hi>How am I aſſured that God hath thus Declared?</hi>]</p>
+            <p>I Anſwer, Becauſe the <hi>Holy Scriptures</hi> which contain the mind of God, and in which the ſureſt Notices of another World are to be found; I ſay, Theſe <hi>Scriptures</hi> do in plain Terms inform me, <hi>That there is ſuch a Hell,</hi> There<g ref="char:EOLhyphen"/>fore <hi>I Believe it.</hi>
+            </p>
+            <p>So that this Truth, <hi>There is a Hell, and the Torments of it are E<g ref="char:EOLhyphen"/>ternal,</hi> is proved and ſupported by theſe following Propoſitions.</p>
+            <p n="1">1. <hi>God hath Revealed his Will to Mankind.</hi>
+            </p>
+            <p n="2">2. <hi>Theſe Books we call the Holy Scriptures contain this Revelation of the Divine Will.</hi>
+            </p>
+            <p n="3">
+               <pb n="11" facs="tcp:44497:8"/>3. <hi>This Truth,</hi> That there is a Hell, and that the Torments of it are Eternal, <hi>is fully Revealed in theſe Holy Scriptures.</hi>
+            </p>
+            <p n="4">4. <hi>What God hath Revealed in theſe Holy Scriptures is Infallibly True.</hi>
+            </p>
+            <p>And conſequently; Whoever will pretend to prove it Impoſſi<g ref="char:EOLhyphen"/>ble, <hi>That there is ſuch a State of E<g ref="char:EOLhyphen"/>ternal Torments,</hi> He muſt make good theſe Propoſitions.</p>
+            <p n="1">1. <hi>That it is Impoſſible, that Al<g ref="char:EOLhyphen"/>mighty God ſhould reveal his Will to Mankind.</hi> Or elſe,</p>
+            <p n="2">2. If the Poſſibility of ſuch Re<g ref="char:EOLhyphen"/>velation ſhall be granted; he muſt then prove, <hi>That it is Impoſſible, that theſe Books we call the Scrip<g ref="char:EOLhyphen"/>tures ſhould contain this Revelation of the Divine Will.</hi> Or,</p>
+            <p n="3">3. If both the former ſhall be acknowledg'd; He muſt then prove it Impoſſible, <hi>That ſuch a Doctrine concerning the Eternity of Hell-Torments ſhould be revealed in Scripture.</hi> Or elſe,</p>
+            <p n="4">4. He muſt make it appear, <hi>That what God hath thus Revealed cannot poſſibly be true.</hi>
+            </p>
+            <pb n="12" facs="tcp:44497:9"/>
+            <p>As to the <hi>Firſt;</hi>
+            </p>
+            <p>
+               <hi>DIvine Revelation is ſo far from being Impoſſible, that it hath the highest Probabilities to ſupport it.</hi>
+            </p>
+            <p>You have already granted, <hi>There is a God.</hi> And I am ſure, upon due Conſideration you will further grant; That God is a <hi>Rational</hi> Intellectual Being; A free Agent, having Liberty of Choice to determine his own Actions. And conſequently, what ſhould hinder, but that ſuch a God may communicate his Deſigns and In<g ref="char:EOLhyphen"/>tentions to Mankind?</p>
+            <p>Men you know do frequently diſcover, not only what they re<g ref="char:EOLhyphen"/>ſolve at <hi>preſent,</hi> but alſo their Ap<g ref="char:EOLhyphen"/>prehenſions <hi>de futuro,</hi> what they purpoſe to perform hereafter. And this faculty is acknowledged a great perfection in human Na<g ref="char:EOLhyphen"/>ture, ſuch as other Creatures are not capable of. Why then will you deny that Capacity to ſo ex<g ref="char:EOLhyphen"/>cellent a Being as 'an infinite God,
+<pb n="13" facs="tcp:44497:9"/> which yet you will grant to a li<g ref="char:EOLhyphen"/>mited and finite Creature?</p>
+            <p>And this expoſtulation will ap<g ref="char:EOLhyphen"/>pear the more rational, when I have further told you; That if you deny the <hi>Poſſibility</hi> of Divine Revelation, you have then the <hi>Suffrage</hi> of all the World againſt you. All Nations and all Religi<g ref="char:EOLhyphen"/>ons, <hi>Jewiſh, Heathen, Mahume<g ref="char:EOLhyphen"/>tan</hi> as well as <hi>Chriſtian</hi> do acknow<g ref="char:EOLhyphen"/>ledge and ſuppoſe it.</p>
+            <p>If ſtill You can doubt of ſo clear a Truth, <hi>Tully</hi> in his Books <hi>de Di<g ref="char:EOLhyphen"/>vinatione</hi> may then convince you. His <hi>Authority</hi> I ſhall not urge (for the Authority of God himſelf is rejected by you) but it is his Rea<g ref="char:EOLhyphen"/>ſon only I deſire you to obſerve.</p>
+            <p>
+               <hi>SI ſunt Dii, neque ante declarant hominibus quae futura ſunt: Aut non dilligunt homines: Aut quid eventurum ſit ignorant: Aut exiſtimant nihil intereſſe hominum ſcire quid futurum ſit: Aut non cenſent eſſe ſuae Majeſtatis praeſigni<g ref="char:EOLhyphen"/>ficare hominibus quae ſunt futura: Aut ea ne ipſi quidem Dii ſignificare
+<pb n="14" facs="tcp:44497:10"/> poſſunt. At neque non diligunt nos: Sunt enim benefici, generique homi<g ref="char:EOLhyphen"/>num amici: Neque ignorant ea quae ab ipſis conſtituta &amp; deſignata ſunt: N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que noſtra nihil intereſt ſcire <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, que eventura ſunt: Erimus enim cautiores ſi ſciemus: Neque hoc a<g ref="char:EOLhyphen"/>lienum ducunt Majeſtate ſuâ: Ni<g ref="char:EOLhyphen"/>hil est enim beneficenti â praeſtantius; Neque non poſſunt futura praenoſce<g ref="char:EOLhyphen"/>re: Non igitur &amp; ſunt Dii, nec ſig<g ref="char:EOLhyphen"/>nificant futura.</hi> V. Cicer: <hi>De Di<g ref="char:EOLhyphen"/>vin.</hi> Pag. 269. Edit. du Puis. Lut. 1565. Fol.</p>
+            <p>Thus that excellent <hi>Philoſopher</hi> argues, in the Perſon of a <hi>Stoic.</hi> The Senſe of whoſe words, I ſhall thus faithfully give you in this following <hi>Paraphraſe.</hi>
+            </p>
+            <q rend="margQuotes">
+               <p>If there be a <hi>God,</hi> and yet this <hi>God</hi> doth not reveal his Will to Mankind: If he hath made no Diſcovery of a future State; nor given us any notice of Rewards and Puniſhments in another World. <hi>Then,</hi> Some of theſe fol<g ref="char:EOLhyphen"/>lowing Particulars muſt be aſſer<g ref="char:EOLhyphen"/>ted by us. Either. <hi>1ſt.</hi> That
+<pb n="15" facs="tcp:44497:10"/> God hath no Love nor Concern for Mankind; Or elſe, <hi>2dly.</hi> That God himſelf is ignorant of future Events; Or <hi>3dly.</hi> That God apprehends it will be of no advantage to us, to know what may poſſibly befall us: Or elſe, <hi>4thly.</hi> That it is a Dimunition of his <hi>State</hi> and <hi>Majeſty,</hi> to Com<g ref="char:EOLhyphen"/>municate his Intentions to Man<g ref="char:EOLhyphen"/>kind. Or elſe <hi>Lastly,</hi> If there be a future State, <hi>Then,</hi> That God himſelf is not able to De<g ref="char:EOLhyphen"/>clare it.</p>
+               <p>But none of theſe Things can be affirmed.</p>
+               <p>Not the <hi>First;</hi> For God truly Loves us, and is very indulgent and beneficial to Mankind. Nor <hi>2dly;</hi> Can God be ignorant of future Events, becauſe they are appointed and determined by him. Nor <hi>3dly;</hi> Can it be pre<g ref="char:EOLhyphen"/>tended, that the notices of a fu<g ref="char:EOLhyphen"/>ture State will be of no advan<g ref="char:EOLhyphen"/>tage to us: Since this very ap<g ref="char:EOLhyphen"/>prehenſion that we muſt render an Account of all our Actions,
+<pb n="16" facs="tcp:44497:11"/> will make us more cautious; not to live at random; but to take heed what we do. And there<g ref="char:EOLhyphen"/>fore <hi>4thly.</hi> It is far from being repugnant to the Majeſty of God to reveal his Intentions; ſince nothing is more generous then Bounty and doing Good. And <hi>Laſtly,</hi> God is ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar from being unable to Declare future Events; that he could not be <hi>God</hi> unleſs he did <hi>fore-know</hi> them.</p>
+            </q>
+            <p>From theſe <hi>Premiſſes</hi> I may very ſuitably conclude with the ſame <hi>T<g ref="char:V">Ʋ</g>LLY. Sunt autem Dii, ſignifi<g ref="char:EOLhyphen"/>cant ergo.</hi> There is a God, <hi>There<g ref="char:EOLhyphen"/>fore</hi> He hath revealed his Will to Mankind.</p>
+            <p>The Poſſibility of Divine Re<g ref="char:EOLhyphen"/>velation, <hi>in Theſi,</hi> being thus eſta<g ref="char:EOLhyphen"/>bliſhed; let us next examin, <hi>in Hypotheſi,</hi> by what <hi>Mediums</hi> you can pretend to evince,</p>
+            <p>
+               <hi>Secondly,</hi> That it is Impoſſible, <hi>That theſe Books we call the Scriptures ſhould contain this Revelation of the Divine Will.</hi> Or<g ref="char:punc">▪</g> 
+               <hi>That the Doctrines there in expreſſed ſhould proceed from
+<pb n="17" facs="tcp:44497:11"/> God; ſhould be dictated by his Spirit, or Publiſhed by his Command.</hi>
+            </p>
+            <p>Now there are but <hi>Two</hi> Ways; whereby the proof of ſuch Impoſ<g ref="char:EOLhyphen"/>ſibility can be attempted. Either,</p>
+            <p n="1">1. It muſt appear, That the Contents of this Book are unwor<g ref="char:EOLhyphen"/>thy of ſuch an excellent Author; and that the matters therein con<g ref="char:EOLhyphen"/>tained, are inconſiſtent with that due Notion of God<g ref="char:punc">▪</g> which even na<g ref="char:EOLhyphen"/>tural Reaſon doth ſuggeſt; or elſe,</p>
+            <p n="2">2. That the Penmen of theſe <hi>Scriptures</hi> were Perſons of ſuch ſlender Reputation, that we have no reaſon to believe them, tho they tell us expreſly they received this Book from God.</p>
+            <p>As to the <hi>former</hi> of theſe pre<g ref="char:EOLhyphen"/>tences; <hi>Tolle, Lege.</hi> Take this Divine Book into your Hand; But do it without prejudice. Read it with the ſame indifference you would peruſe any other Author, and then reſolve me. What Paſ<g ref="char:EOLhyphen"/>ſage (either <hi>Historical</hi> or <hi>Doctri<g ref="char:EOLhyphen"/>nal</hi>) can you find in this ſacred Vo<g ref="char:EOLhyphen"/>lume, which doth in the leaſt con<g ref="char:EOLhyphen"/>tradict,
+<pb n="18" facs="tcp:44497:12"/> either the <hi>Holineſs, Wiſ<g ref="char:EOLhyphen"/>dom, Goodneſs, Juſtice, Truth,</hi> or any other of the Divine Attri<g ref="char:EOLhyphen"/>butes? If you affi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, that there is ſome ſuch Paſſage, and that there are ſuch Contradictions; When you have firſt produced them, and told us what they are; I ſhall then, through Divine Aſſiſtance, endeavour your Satis<g ref="char:EOLhyphen"/>faction.</p>
+            <p>As to the <hi>2l,</hi> viz. <hi>The Credit of the Penmen;</hi> The utmoſt that can be urged againſt their <hi>Authority</hi> is this. [<hi>That there being many Cheats and Impostors in the World, 'tis the Character of true Wiſdom not to be over-credulous. And there<g ref="char:EOLhyphen"/>fore tho we read expreſly in the Bi<g ref="char:EOLhyphen"/>ble,</hi> All Scripture is given by in<g ref="char:EOLhyphen"/>ſpiration of God. And Holy Men of God ſpake, as they were mo<g ref="char:EOLhyphen"/>ved by the Holy Ghoſt: <hi>Yet this</hi> (ſaith the Deiſt) <hi>is but the Teſtimo<g ref="char:EOLhyphen"/>ny of Men in their own Cauſe: Who are indeed to be admitted, as very faithful Witneſſes, if we may believe themſelves, and muſt take their own <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rds.</hi>]</p>
+            <pb n="19" facs="tcp:44497:12"/>
+            <p>For the true State of the mat<g ref="char:EOLhyphen"/>ter, according to his Senſe is this. [<hi>The Writers of theſe Books to ſup<g ref="char:EOLhyphen"/>port their Credit, and to raiſe them<g ref="char:EOLhyphen"/>ſelves a Name (as</hi> Mahomet <hi>from his</hi> Pigeon, <hi>and</hi> Numa Pompilius <hi>from his</hi> Egeria) <hi>have counterfeited a Divine Commiſſion, and deliver<g ref="char:EOLhyphen"/>ed their Meſſage in the Name of the Lord.</hi>]</p>
+            <p>To which mal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cious Suggeſtion, I ſhall return this brief and, I hope, full Reply.</p>
+            <p>
+               <hi>The higheſt Evidence of Divine Authority, is the Concurrence of Di<g ref="char:EOLhyphen"/>vine Power, i. e.</hi> The utmoſt aſ<g ref="char:EOLhyphen"/>ſurance which can be given by any Perſon, that he acts by a Di<g ref="char:EOLhyphen"/>vine Commiſſion, and that the Meſſage he delivers was received from God: It is the working of ſuch Miracles, in Confirmation of his Doctrin, as are beyond the Power of any natural Agent.</p>
+            <p>Now <hi>Jeſus of Nazareth,</hi> the Au<g ref="char:EOLhyphen"/>thor of the <hi>Christian Faith,</hi> moſt expreſly aſſures us, That the Do<g ref="char:EOLhyphen"/>ctrines he deliver'd were receiv'd
+<pb n="20" facs="tcp:44497:13"/> from God. <hi>My Do<g ref="char:EOLhyphen"/>ctrine is not mine, but</hi>
+               <note place="margin">Joh. 7. 16. 12. 49, 50.</note> 
+               <hi>his that ſent me. I have not spoken of my ſelf, but the Father that ſent me, he gave me a Commandment what I ſhould ſay, and what I ſhould ſpeak. Whatſoever I ſpeak therefore even as the Father ſaid unto me, ſo I ſpeak.</hi>
+            </p>
+            <p>And becauſe it might ſeem un<g ref="char:EOLhyphen"/>reaſonable, to believe him herein upon his own word; he makes this plain Confeſſi<g ref="char:EOLhyphen"/>on. <hi>If I bear Wit<g ref="char:EOLhyphen"/>neſs</hi>
+               <note place="margin">Joh. 5. 31.</note> 
+               <hi>of my ſelf, my Witneſs is not true,</hi> i. e<g ref="char:punc">▪</g> 
+               <hi>If I only bear Witneſs of my ſelf, my Witneſs is not</hi> effectivè, <hi>or</hi> convincingly <hi>true. There is ano<g ref="char:EOLhyphen"/>ther that beareth Wit<g ref="char:EOLhyphen"/>neſs</hi>
+               <note place="margin">V. 32, 33. 34, 36.</note> 
+               <hi>of me: Ye ſent unto John, and he bare Witneſs unto the Truth. But I re<g ref="char:EOLhyphen"/>ceive not Teſtimony from Man,</hi> i. e. only <hi>from Man. I have greater Witneſs then that of</hi> John: <hi>For the</hi> Works <hi>which the Father hath given me to finiſh, the ſame</hi> Works <hi>that I
+<pb n="21" facs="tcp:44497:13"/> do, bear Witneſs of me, that the Father hath ſent me.</hi>
+               <note place="margin">Joh. 10. 24, 25.</note> And when the Jews <hi>came round about him, and ſaid unto him, How long dost thou make us to doubt? If thou be the Chriſt, tell us plainly.</hi> Jeſus <hi>anſwer<g ref="char:EOLhyphen"/>ed them, I told you, and ye believed not: The</hi> Works <hi>that I do in my Fa<g ref="char:EOLhyphen"/>thers Name, they bear Witneſs of me.</hi>
+            </p>
+            <p>What theſe Works are, the <hi>E<g ref="char:EOLhyphen"/>vangeliſts</hi> have largely Recorded. Some of them are briefly repeated by our Lord himſelf, in his An<g ref="char:EOLhyphen"/>ſwer to <hi>John</hi>'s Diſci<g ref="char:EOLhyphen"/>ples.—<hi>The Blind</hi>
+               <note place="margin">Luk 7. 22.</note> 
+               <hi>ſee, the Lame walk, the Deaf hear, the Dead are raiſed.</hi> By ſuch miraculous Works as theſe, our <hi>Bleſſed Saviour</hi> doth juſtifie his Commiſſion, That he was the <hi>Meſ<g ref="char:EOLhyphen"/>ſias, i. e.</hi> that he was <hi>that</hi> Perſon who was ſent from God; to Pub<g ref="char:EOLhyphen"/>liſh, to Purchaſe, to effect the Salvation of Mankind.</p>
+            <p>Theſe were the <hi>Credentials</hi> of this Heavenly <hi>Agent:</hi> The Divine Seal to his Commiſſion, which
+<pb n="22" facs="tcp:44497:14"/> made it <hi>Authentic.</hi> Which unleſs he had produced, he could not ra<g ref="char:EOLhyphen"/>tionally have challenged any ac<g ref="char:EOLhyphen"/>ceptance from the World. <hi>If I do not</hi>
+               <note place="margin">Joh. 10. 37.</note> 
+               <hi>the Works of my Fa<g ref="char:EOLhyphen"/>ther (i. e.</hi> Works only imputable to Gods extraordinary Power) <hi>Believe me not. If I had not done among</hi>
+               <note place="margin">—15. 24.</note> 
+               <hi>them; the Works which none other Man did, they</hi> (the incre<g ref="char:EOLhyphen"/>dulous <hi>Jews) had not had Sin: i. e.</hi> had not been culpable for Unbe<g ref="char:EOLhyphen"/>lief. Intimating plainly; That if he had not confirmed his Doctrin with ſuch convincing Miracles, they were not to be blamed, tho they did reject him as an Impo<g ref="char:EOLhyphen"/>ſtor.</p>
+            <p>But ſtill you will ſay, [<hi>The Que<g ref="char:EOLhyphen"/>ſtion is</hi> de facto, <hi>How can I be aſ<g ref="char:EOLhyphen"/>ſured that ſuch Miracles were really done by him? Had I lived in thoſe Days, and ſeen any of his Miracles, I ſhould then have known how to have judged of them. But to tell me of Things done</hi> Sixteen Hundred <hi>Years
+<pb n="23" facs="tcp:44497:14"/> ago, is not much to the purpoſe. There hath been Jugling and Colluſion in o<g ref="char:EOLhyphen"/>ther Caſes; and for ought I know, there hath been in this.</hi>]</p>
+            <p>To ſatisfie which trifling Scru<g ref="char:EOLhyphen"/>ple, give me leave with ſome free<g ref="char:EOLhyphen"/>dom thus to expreſs my ſelf. That if Men will turn perfect <hi>Sceptics;</hi> and Cauſeleſly ſuſpect the Truth of all ſuch Paſſages, as they did not actually <hi>ſee</hi> done with their own <hi>Eyes,</hi> or <hi>hear</hi> with their own <hi>Ears,</hi> they are not worthy of Con<g ref="char:EOLhyphen"/>viction. And if this be your Tem<g ref="char:EOLhyphen"/>per, we muſt then <hi>Turn you to Graſs,</hi> and there leave you. But if there is ſuch a thing as <hi>Fides hiſtorica;</hi> or any aſſurance can be had of thoſe Tranſactions, which are beyond and above our own Times, there may then be given as great evidence of theſe Mira<g ref="char:EOLhyphen"/>cles, as any matter of Fact is capa<g ref="char:EOLhyphen"/>ble to admit. For, <hi>Theſe things were not done in a Corner;</hi> but plain<g ref="char:EOLhyphen"/>ly and openly, and in the ſight of many Witneſſes; and with ſuch remarkable Circumſtances, as
+<pb n="24" facs="tcp:44497:15"/> might beſt expoſe them to the ſtricteſt Examination.</p>
+            <p>To omit many others, pray read the Stories of <note n="a" place="margin">Luk. 8.</note> 
+               <hi>Jairus</hi> Daugh<g ref="char:EOLhyphen"/>ter, the <note n="b" place="margin">Luk. 7.</note> Widows Son of <hi>Nain,</hi> and of <note n="c" place="margin">Joh. 11.</note> 
+               <hi>Lazarus.</hi> The laſt of which (<hi>viz. Laza<g ref="char:EOLhyphen"/>rus</hi>) had been Dead <hi>four</hi> Days, and Buried till he flank, and yet at the call of <hi>Jeſus</hi> (although bound Hand and Foot with Grave-Cloths) he came forth, all the Multitude beholding.</p>
+            <p>This laſt Miracle was ſo emi<g ref="char:EOLhyphen"/>nently convincing, and did ſo ſtar<g ref="char:EOLhyphen"/>tle the <hi>Chief Prieſts</hi> and <hi>Phariſees;</hi> that they called a Council upon it, and ſaid, <hi>What do we? For this Man doth many</hi>
+               <note place="margin">Joh. 11. 47, 48.</note> 
+               <hi>Miracles. If we let him thus alone, all Men will believe on him.</hi>
+            </p>
+            <p>[<hi>All this, ſaith the</hi> Deiſt, <hi>were evidently true, and muſt needs be granted, if we had not juſt cauſe to ſuſpect your Proof. You tell us in<g ref="char:EOLhyphen"/>deed
+<pb n="25" facs="tcp:44497:15"/> that</hi> Jeſus <hi>did ſuch and ſuch Mi<g ref="char:EOLhyphen"/>racles; particularly, That he raiſed the Dead. But pray who are they that report theſe Things? Were they not his own Diſciples and Followers? And have we not great reaſon to ſu<g ref="char:EOLhyphen"/>ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct, they might forge theſe Stories for the Credit of their Master?</hi>]</p>
+            <p>In Anſwer to which <hi>Cavil</hi> (be<g ref="char:EOLhyphen"/>cauſe <hi>Objections</hi> are endleſs) we ſhall put the Matter upon this ſhort Iſſue.</p>
+            <p>Theſe Writers do tell us; That <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus</hi> did not only raiſe others from the Dead; but alſo that he raiſed himſelf. Yea, further they acquaint us, That before he <hi>Died,</hi> he promiſed his Apoſtles that he would riſe again. And moreover gave this alſo as a <hi>Sign</hi> to all the People, whereby they ſhould know; <hi>That his Doctrin was true, and that he was ſent from God.</hi> If therefore I can evidently prove to you, That <hi>Jeſus of Nazareth did riſe again from the Dead,</hi> and conſequently; That the <hi>Penmen</hi> of the <hi>New-Testament</hi> did herein
+<pb n="26" facs="tcp:44497:16"/> declare nothing but Truth; you will then have no reaſon to ſu<g ref="char:EOLhyphen"/>ſpect their Fidelity in any other Inſtance.</p>
+            <p>Now in order to your Convi<g ref="char:EOLhyphen"/>ction (which is moſt heartily pray<g ref="char:EOLhyphen"/>ed for) I muſt deſire you to grant me this <hi>Poſtulatum, viz.</hi>
+            </p>
+            <p>
+               <hi>That the Reſurrection of Jeſus is Matter of Fact. And conſequently can no otherwiſe be proved, then Matters of Fact uſe to be.</hi>
+            </p>
+            <p>When we deſign to convince another, that ſuch a Thing was <hi>Done,</hi> the ſureſt Evidence we can give him, is the <hi>Teſtimony</hi> of ſuffi<g ref="char:EOLhyphen"/>cient credible Witneſſes who ſaw it done. And he who is not ſa<g ref="char:EOLhyphen"/>tisfied with ſuch a Proof, we look upon him as a Perſon not fit to be Diſcourſed with.</p>
+            <p>Now there was never any Mat<g ref="char:EOLhyphen"/>ter of Fact, better or more ſtrong<g ref="char:EOLhyphen"/>ly atteſted, then the Truth of this Aſſertion; <hi>That Jeſus roſe from the Dead.</hi> And that, Whe<g ref="char:EOLhyphen"/>ther we conſider the <hi>Nature</hi> of the Things to be atteſted; Or the
+<pb n="27" facs="tcp:44497:16"/> 
+               <hi>Number</hi> and <hi>Quality</hi> of the <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi> atteſting.</p>
+            <p>
+               <hi>Firſt;</hi> The thing to be atteſted was of that Nature that it might be fully perceived by thoſe who ſaw it; <hi>i. e.</hi> It was an <hi>Object</hi> fit and proper to be judged of by their Senſes.</p>
+            <p>As to the Death and Paſſion of Jeſus (the neceſſary <hi>Antecedents</hi> of his Reſurrection) they were plain Objects of Sence: Done in the preſence of the whole City of <hi>Je<g ref="char:EOLhyphen"/>ruſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> and conſequently of his greateſt Adverſaries. That he truly Died, all the World could teſtifie. No Mans Death was ever more ſolemn or remarkable: Nor was this ever diſputed. So that thus far we are fixt and certain; That if <hi>Jeſus</hi> did riſe again; his Reſurrection was no <hi>juggling Trick,</hi> but a real Miracle.</p>
+            <p>After his <hi>Reſurrection<g ref="char:punc">▪</g>
+               </hi> thoſe to whom he appeared were fright<g ref="char:EOLhyphen"/>ned at it, ſuppoſing him to be a <hi>Spirit.</hi> But he ſufficiently aſſures them of the contrary by appeal<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:44497:17"/> to their Senſes. <hi>Behold my hands and</hi>
+               <note place="margin">Luk. 24. 39.</note> 
+               <hi>my feet, that it is I my ſelf. Handle me and ſee, for a Spirit hath not Fleſh and Bones, as ye ſee me have. q. d.</hi> Satisfie your ſelves, that it is I the <hi>ſame</hi> who was Dead, that am now alive a<g ref="char:EOLhyphen"/>gain. But,</p>
+            <p>
+               <hi>Secondly;</hi> Not only the nature of the Thing (of which even our Senſes are competent Judges) but alſo the <hi>Witneſſes</hi> atteſting do ſuf<g ref="char:EOLhyphen"/>ficiently prove; <hi>That Jeſus is riſen.</hi>
+            </p>
+            <p>Now there are <hi>Two</hi> Things muſt concur to make a credible Witneſs. <hi>Knowledg</hi> and <hi>Integrity.</hi>
+            </p>
+            <p n="1">1. <hi>Knowledge.</hi> No Man ought to be received as a fit Witneſs in any Matter, unleſs it do ap<g ref="char:EOLhyphen"/>pear; that he had the opportu<g ref="char:EOLhyphen"/>nity fully to inform himſelf of the truth of that which he pretends to atteſt.</p>
+            <p>Should any Man affirm; That he <hi>ſaw</hi> a Thing done, or <hi>heard</hi> a Word ſpoken; and yet it ſhall be Depoſed, by as credible Witneſſes
+<pb n="29" facs="tcp:44497:17"/> as himſelf, that he was at the ſame time <hi>Twenty Miles</hi> diſtant; Such <hi>Evidence,</hi> however confidently de<g ref="char:EOLhyphen"/>livered, muſt needs be falſe and ridiculous.</p>
+            <p>But now the Diſciples of our Lord had all imaginable advan<g ref="char:EOLhyphen"/>tages, to know the Truth of what they Witneſs; whilſt they affirm; <hi>That Jeſus is riſen.</hi>
+            </p>
+            <p>They were his conſtant Follow<g ref="char:EOLhyphen"/>ers and Attendants. And for the ſpace of <hi>Three Years,</hi> were the daily Obſervers of his Converſa<g ref="char:EOLhyphen"/>tion. And 'tis worthy your no<g ref="char:EOLhyphen"/>tice; That when by the <hi>Apostacy</hi> of <hi>Judas,</hi> they wanted one of their Number; they were very careful to chooſe ſuch a one to ſucceed him, as had been a conſtant Fol<g ref="char:EOLhyphen"/>lower of <hi>Jeſus,</hi> and had taken exact notice of every thing they were to Witneſs. <hi>Wherefore</hi> (ſaith St.<note place="margin">Acts 1. 21, 22, 23.</note> 
+               <hi>Peter) of theſe Men which have companied with us, all the time that the Lord Jeſus went in and out among us, be<g ref="char:EOLhyphen"/>ginning
+<pb n="30" facs="tcp:44497:18"/> from the Baptiſm of</hi> John <hi>unto that ſame Day, that he was ta<g ref="char:EOLhyphen"/>ken up from us, muſt one be ordained to be</hi> a Witneſs with us of his Re<g ref="char:EOLhyphen"/>ſurrection.</p>
+            <p>Obſerve here how exact they were in their Choice. They would admit of none, but one who had been with them from firſt to laſt. That could ſpeak Things (as we phraſe it) not by <hi>Hearſay</hi> only, but of his own knowledge: That if any Man ſhould ask him: Did you your ſelf <hi>See?</hi> Or, Did you your ſelf <hi>Hear,</hi> this, which you do report? That he might then tru<g ref="char:EOLhyphen"/>ly anſwer that he did; and that what he Preached was upon his own certain Knowledge.</p>
+            <p>Now the Diſciples of our Lord were the conſtant Hearers of his Doctrin; and amongſt other Paſ<g ref="char:EOLhyphen"/>ſages they heard him expreſly De<g ref="char:EOLhyphen"/>clare: That he would riſe again the Third Day. <hi>Deſtroy this Tem<g ref="char:EOLhyphen"/>ple,</hi>
+               <note place="margin">Joh. 2. 19, 21.</note> 
+               <hi>and in three Days I will raiſe it up. But he ſpake
+<pb n="31" facs="tcp:44497:18"/> of the Temple of his Body.</hi> And this Expreſſion of riſing the <hi>Third</hi> Day was ſo familiar, and ſo often repeated; that the Chief <hi>Prieſts</hi> and <hi>Phariſees</hi> took no<g ref="char:EOLhyphen"/>tice of it to <hi>Pilate,</hi>
+               <note place="margin">Mat. 27. 63.</note> ſaying, <hi>Sir, we remem<g ref="char:EOLhyphen"/>ber that that Deceiver ſaid, while he was yet alive, after three Days I will riſe again.</hi>
+            </p>
+            <p>Moreover, The Diſciples and Followers of our <hi>Lord,</hi> were not only inſtructed in his <hi>Life time,</hi> that he would riſe again; but they likewiſe ſaw him after he was ri<g ref="char:EOLhyphen"/>ſen. And in ſuch a manner, with ſuch Circumſtances, as might moſt effectually command their Belief.</p>
+            <p>They <hi>ſaw</hi> him, not only once or twice, but ſeveral times. They ſaw him, not only ſingly and a part, and in leſſer Numbers; but all of them, yea <hi>Five Hundred</hi> of them at once. And therefore tho <hi>One</hi> or <hi>Two</hi> might perhaps be miſtaken, yet ſo great a Number could not poſſibly be impoſed on.</p>
+            <p>Eſpecially, when we have con<g ref="char:EOLhyphen"/>ſider'd
+<pb n="32" facs="tcp:44497:19"/> further; That they not only ſaw him, but had likewiſe all other imaginable Evidences to convince them.</p>
+            <p>For when he had appeared to them, and Diſcourſed with them, which might alſo be done by a <hi>Spi<g ref="char:EOLhyphen"/>rit;</hi> to give them a certain proof that he was no Spirit; <hi>Handle me and ſee</hi> (i. e. obſerve and ſatisfie your ſelves) <hi>for a Spirit hath not Fleſh and Bones as you ſee me have.</hi> And leaſt they might yet ſcruple, that it was not the ſame Jeſus that was crucified, but ſome other Dead Bo<g ref="char:EOLhyphen"/>dy; which, being moved and actu<g ref="char:EOLhyphen"/>ated by an Angel, did take his ſhape and appear in his likeneſs: To remove this doubt; <hi>Behold</hi> (ſaith he) <hi>my Hands and my Feet, that it is I my ſelf.</hi> Thoſe Hands and Feet which were pierced with Nails, and faſtned to the accurſed Tree. And if you will not believe your <hi>Eyes</hi> (which, according to the Vulgar Notion, may have a Miſt caſt before them) then to ſatisfie your ſelves further, take the proof
+<pb n="33" facs="tcp:44497:19"/> of another of your Senſes. <hi>Handle me and ſee.</hi> And when St. <hi>Thomas</hi> was a little more diſtruſtful then the reſt. <hi>Reach hi<g ref="char:EOLhyphen"/>ther thy Finger, and</hi>
+               <note place="margin">Joh. 20. 27.</note> 
+               <hi>behold my Hands, and reach hither thy Hand, and thruſt it into my ſide, and be not faithleſs but believing.</hi>
+            </p>
+            <p>Now recollect the forementi<g ref="char:EOLhyphen"/>oned Paſſages, and then reſolve me; What could have been fur<g ref="char:EOLhyphen"/>ther either ſaid or done to con<g ref="char:EOLhyphen"/>vince them, <hi>That Jeſus was riſen?</hi> They <hi>ſaw</hi> him, he <hi>diſcourſed</hi> with them, did <hi>eat</hi> before them, they <hi>touched</hi> him and <hi>handled</hi> him. And all this variety of Converſation they had with him, not only <hi>once</hi> or <hi>twice,</hi> but for the ſpace of For<g ref="char:EOLhyphen"/>ty Days together.</p>
+            <p>The Premiſſes conſidered, you muſt needs grant; That the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> were very ſufficient Witneſ<g ref="char:EOLhyphen"/>ſes of our Bleſſed Saviours Reſur<g ref="char:EOLhyphen"/>rection in reſpect of their Know<g ref="char:EOLhyphen"/>ledge. <hi>i. e. They had all imagina<g ref="char:EOLhyphen"/>ble advantages, to know the Truth
+<pb n="34" facs="tcp:44497:20"/> of that which they witneſſed and at<g ref="char:EOLhyphen"/>teſted.</hi> But,</p>
+            <p n="2">2. Suppoſing their <hi>Knowledge;</hi> And that they had ſufficient means of Information; yet whether were they Perſons of that <hi>Honeſty</hi> and <hi>Integrity</hi> as to be Believed; Or, was there not juſt reaſon to ſu<g ref="char:EOLhyphen"/>ſpect, that they might deliver a Falſhood inſtead of Truth?</p>
+            <p>And for this, let me deſire you to conſider that known Saying, <hi>Nemo gratis malus eſt.</hi> There is ſcarce any Man ſo abſurd, as to be a <hi>Villain</hi> for nothing. Or ſo im<g ref="char:EOLhyphen"/>pertinently Wicked, as to do <hi>miſ<g ref="char:EOLhyphen"/>chief</hi> for <hi>miſchiefs</hi> ſake. Whoever therefore ſhall preſume publickly and ſolemnly to deliver a Falſe Teſtimony; he muſt be ſuppoſed to do it upon ſome urging Cauſe. As, <hi>To raiſe himſelf a Name: To pleaſe a Party; To advance his For<g ref="char:EOLhyphen"/>tunes: Or to gratifie a Revenge.</hi>
+            </p>
+            <p>Now, <hi>All that is in the World</hi> (ſaith<note place="margin">1 Joh. 2. 16.</note> St. <hi>John) is the Luſt of the Fleſh, the Lust of the
+<pb n="35" facs="tcp:44497:20"/> Eye, and the Pride of Life.</hi> And whatever the Apoſtles could pro<g ref="char:EOLhyphen"/>poſe to themſelves, it will be com<g ref="char:EOLhyphen"/>prehended under one of theſe Three. <hi>Honors, Riches,</hi> or <hi>Pleaſures.</hi>
+            </p>
+            <p n="1">1. As to <hi>Honour;</hi> They could not expect it, ſince all Dignities and Promotions were then in the Hands of <hi>Jews</hi> or <hi>Pagans:</hi> From whom they received nothing but ignominy and reproach. And by whom they were accounted <hi>the Dung of the Earth, and the Off-ſcouring of the World.</hi>
+            </p>
+            <p n="2">2. As to <hi>Riches.</hi> Inſtead of gain<g ref="char:EOLhyphen"/>ing an Eſtate, they were forced to part with all that they had. Either by a voluntary Reſignation to ſup<g ref="char:EOLhyphen"/>ply the wants of others (for at firſt <hi>they had all Things common</hi>) or elſe by the fraud and rapine of their Oppreſſors. They no ſooner came to <hi>one City,</hi> but they were Perſe<g ref="char:EOLhyphen"/>cuted, and forced to <hi>fly unto ano<g ref="char:EOLhyphen"/>ther.</hi> And by this ambulatory Kind of Life, without any fixt certain <hi>Being,</hi> they were ſo far from being able (had they otherwiſe deſigned
+<pb n="36" facs="tcp:44497:21"/> it) to have raiſed Eſtates and For<g ref="char:EOLhyphen"/>tunes; that they lived upon the Alms and Charity of others. And then,</p>
+            <p n="3">3. What kind of Pleaſures they were to expect as their Maſter did foretel, ſo they themſelves did ſuf<g ref="char:EOLhyphen"/>ficiently experi<g ref="char:EOLhyphen"/>ence. <hi>In the World</hi>
+               <note place="margin">Joh. 16. 33.</note> 
+               <hi>ye ſhall have Tribu<g ref="char:EOLhyphen"/>lation. They ſhall</hi>
+               <note place="margin">Luk. 21. 12, 16, 17.</note> 
+               <hi>lay their Hands on you, and perſecute you, and ye ſhall be betrayed both by Parents and Brethren, and Kinsfolks, and Friends, and ſome of you ſhall they cauſe to be put to Death, and ye ſhall be hated of all Men for my Name ſake.</hi>
+               <note place="margin">Joh. 16. 2.</note> 
+               <hi>Yea the time cometh, that whoſoever killeth you, will think that he doth God Service.</hi>
+            </p>
+            <p>St. <hi>Paul</hi> informs us, <hi>That God had ſet</hi>
+               <note place="margin">1 Cor. 4. 9.</note> 
+               <hi>forth the Apoſtles as appointed unto Death,</hi> and expoſed them as Spectacles of ſcorn and obloquy to the World. According
+<pb n="37" facs="tcp:44497:21"/> to which it did in effect happen to them. <hi>Even</hi>
+               <note place="margin">V. 11.</note> 
+               <hi>to this preſent hour, we both hunger and thirſt, and are naked, and are buffeted, and have no cer<g ref="char:EOLhyphen"/>tain dwelling Place; being reviled we bleſs, being perſecuted we ſuffer it, being defamed we intreat; we are made as the filth of the World, and as the Off-ſcouring of all things unto this day.</hi>
+            </p>
+            <p>In ſhort. If Contumelies and Re<g ref="char:EOLhyphen"/>proaches, if Racks and Priſons, if Flames &amp; Gibbets, with other the moſt exquiſite tormenting Deaths; if theſe be <hi>Pleaſures,</hi> then indeed the <hi>Apoſtles</hi> and followers of our <hi>Lord,</hi> who witneſſed his Reſurrecti<g ref="char:EOLhyphen"/>on, had their ſhare of <hi>Pleaſures.</hi>
+            </p>
+            <p>And now Sir, having ſeriouſly Debated theſe Things, pray re<g ref="char:EOLhyphen"/>ſolve me; What juſt cauſe can be aſſigned, why Perſons of ſober ra<g ref="char:EOLhyphen"/>tional Deportment (having the ſame Principle of <hi>Self-preſervation</hi> with other Men) ſhould, by Pub<g ref="char:EOLhyphen"/>liſhing <hi>Chriſt's Reſurrection,</hi> not only deprive themſelves of all
+<pb n="38" facs="tcp:44497:22"/> comfortable enjoyments, but alſo ſubmit to the greateſt Severities, and at laſt Death it ſelf? I ſay, what cauſe can be aſſigned of ſuch <hi>Self-denial,</hi> if they had not the higheſt Convictions of the Truth of what they Publiſhed?</p>
+            <p>But yet further. If the <hi>Apoſtles</hi> of our <hi>Lord</hi> were ſuch Cheats and Impoſtors why were they not diſ<g ref="char:EOLhyphen"/>covered, and expoſed as ſuch? If the <hi>Reſurrection</hi> of <hi>Jeſus</hi> was no better than a Legendary Story, and a <hi>cunningly deviſed Fable,</hi> why was it not then confuted? The World at that time abounded with Learned Men, both <hi>Jews</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens;</hi> who wanted neither <hi>Wit</hi> nor <hi>Malice</hi> for ſuch an Undertaking. Why were not their <hi>Pens</hi> ſharp<g ref="char:EOLhyphen"/>ned as well as their <hi>Swords?</hi> The Reaſon is evident. There were then ſuch <hi>Authentic Records</hi> of theſe matters, as could not be Diſputed. The <note n="a" place="margin">Euſeb. Hiſt. L. 1. c. 9.</note> 
+               <hi>True Acta Pilati</hi> (to which <note n="b" place="margin">Apol. 2. pag. 76.</note> 
+               <hi>Juſtin Martyr,</hi>
+               <pb n="39" facs="tcp:44497:22"/> and <note n="c" place="margin">Apol. c. 5. p. 6, <hi>&amp;c. ana</hi> c. 21. p. 23. V. Euſeb. Hiſt. Eccleſ. L. 2. c. 2. p. 40. V. Not. Val.</note> 
+               <hi>Tertullian</hi> ſo ſucceſsfully ap<g ref="char:EOLhyphen"/>pealed) were then extant. And theſe were ſuch irrefra<g ref="char:EOLhyphen"/>gable Proofs, that Malice it ſelf was not able to <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſs</hi> a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>There was indeed a very early, tho ridiculous, At<g ref="char:EOLhyphen"/>tempt to ſtifle this Truth. The Chief Prieſts and Phariſees having heard him ſay, while he was yet alive, <hi>After three Days, I will riſe again;</hi> They not only Sealed up the <hi>Sepulchre,</hi> but alſo procured a Guard of Souldiers to watch it. That if any report were made of his Reſurrection<g ref="char:punc">▪</g> they might then effectually diſprove it by produ<g ref="char:EOLhyphen"/>cing his <hi>Body;</hi> which for that end, they had now got into their own Poſſeſſion.</p>
+            <p>But obſerve the Malice of theſe Men; not to be convinced; no, not by a <hi>Miracle.</hi> For being told by the <hi>Watch</hi> (with the greateſt
+<pb n="40" facs="tcp:44497:23"/> Conſternation) that an <hi>Angel</hi> had appeared; that the <hi>Stone</hi> was rol<g ref="char:EOLhyphen"/>led away: and the <hi>Body</hi> was gone: They then hired theſe Soldiers to report; <hi>That his Diſciples came by</hi>
+               <note place="margin">Mat. 28. 13.</note> 
+               <hi>Night and ſtole him away whilst they ſlept.</hi> What! <hi>All</hi> of them ſlept? No <hi>Sentinel</hi> to watch for the reſt? This was ſuch an extravagant <hi>
+                  <g ref="char:V">Ʋ</g>n-ſoldier-like</hi> Al<g ref="char:EOLhyphen"/>legation, that nothing but the Impudence of a <hi>Jew,</hi> could have impoſed upon the World.</p>
+            <p>From theſe <hi>Premiſſes,</hi> I hope it hath been competently proved.</p>
+            <p n="1">1. That it is very poſſible, <hi>That God ſhould Reveal his Will to Man<g ref="char:EOLhyphen"/>kind.</hi> And,</p>
+            <p n="2">2. It is no leſs poſſible; <hi>that thoſe Books we call the Scriptures, ſhould contain this Revelation of the Divine Will.</hi> And therefore,</p>
+            <p n="3">3. If (theſe <hi>Two</hi> Propoſitions be<g ref="char:EOLhyphen"/>ing granted) you can ſtill be ſo ex<g ref="char:EOLhyphen"/>travagant as to affirm; <hi>The Impoſ<g ref="char:EOLhyphen"/>ſibility of Eternal Torments;</hi> You muſt then prove it Impoſſible;
+<pb n="41" facs="tcp:44497:23"/> 
+               <hi>That any ſuch Doctrin, concerning the Exiſtence or Eternity of Hell Torments, ſhould be revealed in Scripture.</hi> Or elſe,</p>
+            <p n="4">4. You muſt prove; <hi>That what God hath Revealed in Scripture cannot poſ<g ref="char:EOLhyphen"/>ſibly be true.</hi>
+            </p>
+            <p>As to this <hi>Fourth</hi> Propoſition; I ſhould but trifle to expoſtulate it with you, <hi>Truth</hi> being ſuch an Eſſential At<g ref="char:EOLhyphen"/>tribute of God, that it never was Diſ<g ref="char:EOLhyphen"/>puted. If therefore God hath made this Revelation; There is a <hi>Hell,</hi> and the Torments of it are Eternal: <hi>Who art thou, O vain Man, that diſputeſt a<g ref="char:EOLhyphen"/>gainſt God;</hi> Let God be <hi>true,</hi> but every Man a <hi>Lyar.</hi> And then the only Propo<g ref="char:EOLhyphen"/>ſition for <hi>me</hi> to <hi>confirm,</hi> and <hi>you</hi> to <hi>diſ<g ref="char:EOLhyphen"/>prove</hi> is this; <hi>It is very poſſible that the Holy Scriptures do reveal this Doctrin,</hi> viz. <hi>That there is a Hell, and that the Torments of it are Eternal.</hi>
+            </p>
+            <p>For if this be <hi>Impoſſible;</hi> pray then inform us, what is the true ſenſe and meaning of theſe following Words?</p>
+            <p>
+               <note n="a" place="margin">Jude 6.</note> 
+               <hi>The Angels which kept not their firſt Eſtate, but left their own Habi<g ref="char:EOLhyphen"/>tation, he hath reſerved in</hi> Everlaſting <hi>Chains under darkneſs, unto the Judg<g ref="char:EOLhyphen"/>ment of the great Day.</hi> 
+               <note n="b" place="margin">2 Theſ. 1. 7, 8, 9.</note> 
+               <hi>When the Lord Jeſus ſhall be reveal<g ref="char:EOLhyphen"/>ed from Heaven, with his mighty Angels, in flaming Fire, ta<g ref="char:EOLhyphen"/>king
+<pb n="42" facs="tcp:44497:24"/> vengeance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt. Who ſhall be puniſh<g ref="char:EOLhyphen"/>ed with</hi> Everlaſting <hi>Deſtruction, from the preſence of the Lord, and from the Glory of his Power.</hi> 
+               <note n="c" place="margin">John. 5. 28, 29.</note> 
+               <hi>Marvel not at this: For the hour is coming, in the which all that are in the Graves ſhall hear his Voice, and ſhall come forth, they that have done good, unto the Reſurrection of Life, and they that have done Evil, unto the Reſur<g ref="char:EOLhyphen"/>rection of Damnati<g ref="char:EOLhyphen"/>on.</hi> 
+               <note n="d" place="margin">Dan. 12. 2.</note> 
+               <hi>And many of them that ſleep in the Duſt of the Earth ſhall awake, ſome to</hi> Everlaſting <hi>Life, and ſome to ſhame, and</hi> Everlaſting <hi>Con<g ref="char:EOLhyphen"/>tempt.</hi> 
+               <note n="e" place="margin">Mat. 25. 41.</note> 
+               <hi>Then ſhall he ſay unto them on the left Hand; Depart from me, ye Cur<g ref="char:EOLhyphen"/>ſed into</hi> Everlaſting <hi>Fire, prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels.</hi> 
+               <note n="f" place="margin">Mat. 25. 46.</note> 
+               <hi>And theſe ſhall go away into</hi> Everlaſt<g ref="char:EOLhyphen"/>ing <hi>puniſhment: But the Righteous into Life</hi> Eternal <note n="g" place="margin">Mat. 13. 49, 50.</note> 
+               <hi>At the end of the World, the Angels ſhall come forth, and ſevere the Wicked from among the Juſt; and ſhall caſt them into a Furnace of Fire; there ſhall be wailing and gnaſhing of Teeth.</hi>
+               <pb n="43" facs="tcp:44497:24"/>
+               <note n="h" place="margin">Mark. 9. 43, 44.</note> 
+               <hi>If thy hand offend thee, cut it off: It is better for thee to enter into life maim<g ref="char:EOLhyphen"/>ed, then having two hands, to go into Hell, into the Fire that</hi> never <hi>ſhall be quenched: Where their Worm</hi> dieth not, <hi>and the Fire is not</hi> quenched. <note n="i" place="margin">Rev. 20. 10.</note> 
+               <hi>The Leaſt and the Falſe Prophet ſhall be Tormented Day and Night,</hi> for ever and ever. <note n="k" place="margin">Luk. 12. 4, 5.</note> 
+               <hi>Be not a<g ref="char:EOLhyphen"/>fraid of them that kill the Body, and after that have no more that they can do. But I will fore<g ref="char:EOLhyphen"/>warn you whom you ſhall fear: Fear him, which after he hath killed, hath Power to caſt into Hell; yea I ſay unto you, fear him.</hi>
+            </p>
+            <p>And now <hi>Sir,</hi> having ſeriouſly per<g ref="char:EOLhyphen"/>uſed theſe Places of <hi>Scripture,</hi> pray re<g ref="char:EOLhyphen"/>ſolve me. Are not theſe following <hi>Truths</hi> as plainly therein delivered, as any words can expreſs them?</p>
+            <p n="1">1. <hi>That wicked Men are liable to a fur<g ref="char:EOLhyphen"/>ther Puniſhment after Death.</hi> Thoſe that kill the <hi>Body,</hi> are not able to <hi>kill</hi> the <hi>Soul.</hi> But God is able to deſtroy both Body and Soul in <hi>Hell, i. e.</hi> (as St. <hi>Luke</hi> interprets St. <hi>Matthew) to caſt them into Hell.</hi>
+            </p>
+            <p n="2">2. <hi>This Puniſhment is very great and dreadful.</hi> 'Tis repreſented by <hi>Fire</hi> (the moſt ſmart and pungent Torment) and
+<pb n="44" facs="tcp:44497:25"/> by <hi>wailing</hi> and <hi>gnaſhing of Teeth,</hi> out of Anguiſh and Deſpair,</p>
+            <p n="3">3. <hi>Theſe Torments are Eternal. Ever<g ref="char:EOLhyphen"/>laſting Puniſhment. Everlaſting Fire. Never ſhall be quenched. Their Worm dieth not.</hi>
+            </p>
+            <p>There are indeed ſome impertinent <hi>Criticiſms,</hi> urged by the <hi>Socinians</hi> and others, to <hi>ener-vate</hi> theſe <hi>Texts.</hi> But what then? Was there ever any Truth ſo certain which hath not bin Diſputed<g ref="char:punc">▪</g>
+            </p>
+            <p>But what if theſe <hi>Critics</hi> are miſta<g ref="char:EOLhyphen"/>ſten? what if wiſer Men then <hi>they</hi> have thought otherwiſe? Pray then do not hazard an Eternal Concern upon ſuch Niceties.</p>
+            <p>I did once think to have expoſtula<g ref="char:EOLhyphen"/>ted theſe Things largely with you And to have done it with all the warmth and vigour, that the Concern for a precious immortal Soul could dictate. But I muſt remember to whom I write. For unleſs your Judgment is rectified, the beſt things I can ſay will be but matter for your Sport. If the <hi>Word</hi> of <hi>God</hi> ſhall ſtill be <hi>Burleſqued,</hi> and Ridiculed by you; I have no reaſon to expect any great Reverence ſhould be ſhewed to mine. But I hope better Things, and Things that accompany Salvation tho I thus ſpeak.</p>
+            <p>
+               <hi>God Grant that you may in this your Day, conſider the Things that belong to your Peace, before they be hid from your Eyes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44497:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
